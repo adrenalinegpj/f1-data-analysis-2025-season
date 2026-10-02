@@ -59,4 +59,4 @@ The dashboard analyzes Formula 1 data to explore race results, driver performanc
 
 ## Author
 
-Dani
+Renad Al Haddad
